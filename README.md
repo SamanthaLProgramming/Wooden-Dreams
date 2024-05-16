@@ -8,7 +8,7 @@ A sleek carpentry shop site that offers a comprehensive experience for visitors 
 
 ## How It's Made:
 
-**Tech used:** HTML5, CSS3, JavaScript, Sass
+**Tech used:** HTML5, CSS3, JavaScript, SCSS
 
 I was inspired to develop a unique website dedicated to promoting a local woodworking business in my area. The primary goal of this project was to enhance my proficiency in manipulating website layouts and the general aesthetics.
 
